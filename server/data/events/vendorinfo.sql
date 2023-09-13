@@ -1,0 +1,7 @@
+SELECT [list_no]
+      ,[vendor]
+      ,[vendor_name]
+      ,[ins_date]
+      ,[show]
+      ,[region]
+  FROM [BYT_LEG].[dbo].[vendor_list]

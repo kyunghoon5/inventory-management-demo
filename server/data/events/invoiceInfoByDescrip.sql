@@ -1,0 +1,16 @@
+SELECT DISTINCT  [vendno],
+(select max(recdate) from potran10c where invno = a.invno ) as recdate,
+[reqdate],
+[shpdate],
+(select max(purdate) from potran10c where invno = a.invno ) as purdate,
+[invno],
+descrip
+
+
+FROM potran10c A
+WHERE (invno IS NOT NULL and vendno not in ('') )
+and CONVERT(date,purdate) between '2021-01-01' and getDate()
+
+
+
+ORDER BY reqdate DESC, invno desc

@@ -1,0 +1,1118 @@
+[
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 57622.68
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 42275.44
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 54652.4
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 73996.19
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 87380.48
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 43227.33
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 70155.08
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 74794.18
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 13897.66
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 59527.16
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 66685.1
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 121350.09
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 55988.05
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 72771.54
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 77589.04
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 62456.03
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 76209.18
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 36094.77
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 117124.27
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 39593.89
+ },
+ {
+  "SalesmanName": "A",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 48265.53
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 41015
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 55646.6
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 73416.45
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 54967.31
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 69318.89
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 49434.65
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 51474.23
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 53305.63
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 11765.3
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 11527.16
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 47116.5
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 48790.35
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 46275.85
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 61478.35
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 48965.5
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 52716.6
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 44899.6
+ },
+ {
+  "SalesmanName": "B",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 59856
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 290508.35
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 240956.53
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 260662.45
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 218659.53
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 228708.14
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 191885.26
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 180591.97
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 193775.01
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 54651.77
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 275891.92
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 297338.45
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 348817.15
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 355107.82
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 325044.98
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 254952.08
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 183096.66
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 212827.24
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 195561.98
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 298736.62
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 260766.89
+ },
+ {
+  "SalesmanName": "C",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 291076.45
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 353892.35
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 230623.65
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 312955.15
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 258949.85
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 225653.45
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 235381.64
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 176414.57
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 291592.1
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 67058.11
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 387533.89
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 389915.97
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 443592.55
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 395033.19
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 325073.55
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 240636.37
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 258607.82
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 319482.06
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 242939.49
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 290834.56
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 279902.69
+ },
+ {
+  "SalesmanName": "D",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 273710.62
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 125054.4
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 123891.87
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 153059.15
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 117500.92
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 74294.89
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 121513.74
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 85413.63
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 150759.26
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 14962.18
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 127815.28
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 142036.22
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 161765.11
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 120616.73
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 152333.3
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 169207.08
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 83691.54
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 90017.93
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 108750.75
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 129848.06
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 110803.18
+ },
+ {
+  "SalesmanName": "E",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 103126.3
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 85204.3
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 90807.2
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 89148.85
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 86290.08
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 94849.79
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 88720.93
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 86736.51
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 79585.4
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 20616.13
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 106517.42
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 96865.55
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 111417.9
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 84841.6
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 111279.45
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 127168.39
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 81683.77
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 105136.1
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 88931.38
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 110411.19
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 81026.52
+ },
+ {
+  "SalesmanName": "F",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 88161.97
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 71297.73
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 76111.96
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 111492.81
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 85970.76
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 109667.21
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 113071.54
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 80667.24
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 83729.38
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 22306.56
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 92321.89
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 116136.4
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 178758.34
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 108549.26
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 117263.54
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 131048.62
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 85557.11
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 89913.68
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 80173.05
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 101961.71
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 108467.07
+ },
+ {
+  "SalesmanName": "G",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 112592.15
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 199047.15
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 185441.59
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 244345.69
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 156610.38
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 224296.33
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 156170.56
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 151101.88
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 212098.23
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 44181.94
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 239815.72
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 324642.07
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 278931.14
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 217449.13
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 210691.92
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 183501.21
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 151619.89
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 181602.71
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 170558.27
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 213133.57
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 214031.15
+ },
+ {
+  "SalesmanName": "H",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 167051.65
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 1,
+  "qtyshp": 162166.82
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 2,
+  "qtyshp": 143036.64
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 3,
+  "qtyshp": 191464.37
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 4,
+  "qtyshp": 188992.27
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 5,
+  "qtyshp": 114363.93
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 6,
+  "qtyshp": 153665.71
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 7,
+  "qtyshp": 149307.74
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 8,
+  "qtyshp": 159393.73
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2023,
+  "month": 9,
+  "qtyshp": 35129.47
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 1,
+  "qtyshp": 203738.56
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 2,
+  "qtyshp": 220651.12
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 3,
+  "qtyshp": 201583.79
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 4,
+  "qtyshp": 185860.89
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 5,
+  "qtyshp": 210759.81
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 6,
+  "qtyshp": 155417.32
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 7,
+  "qtyshp": 133386.26
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 8,
+  "qtyshp": 152247.69
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 9,
+  "qtyshp": 109696.19
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 10,
+  "qtyshp": 185599.23
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 11,
+  "qtyshp": 155343.77
+ },
+ {
+  "SalesmanName": "I",
+  "year": 2022,
+  "month": 12,
+  "qtyshp": 138128.34
+ }
+]
